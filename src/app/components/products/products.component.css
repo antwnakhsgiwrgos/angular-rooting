@@ -1,0 +1,31 @@
+.products4 {
+  border-left: solid gray;
+  border-bottom: solid gray;
+
+}
+
+.products4:last-child {
+  border-right:solid gray;
+}
+
+.imgsize{
+  height: 200px;
+  width: 170px;
+}
+
+.lt{
+  text-decoration: line-through;
+}
+
+.sale{
+  color:red;
+  padding: 20px;
+}
+
+a{
+  text-decoration: none;
+
+}
+
+
+
